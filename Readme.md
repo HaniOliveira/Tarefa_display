@@ -1,6 +1,6 @@
 # Projeto Display OLED com Raspberry Pi Pico
 
-Este projeto implementa um sistema interativo usando Raspberry Pi Pico com display OLED, LEDs RGB, matriz WS2812 e botões.
+Este projeto implementa um sistema interativo usando Raspberry Pi Pico com display OLED, LEDs RGB, matriz WS2812 e botões. No meu caso estou usando a ferramenta educacional BitDogLab
 
 ## Funcionalidades
 
@@ -9,7 +9,7 @@ Este projeto implementa um sistema interativo usando Raspberry Pi Pico com displ
 - Matriz WS2812 5x5 para exibição de números (0-9)
 - Interface serial para entrada de caracteres e números
 
-## Hardware Necessário
+## Hardware Necessário (Caso nã esteja usando a BitDogLab)
 
 - Raspberry Pi Pico
 - Display OLED SSD1306 (I2C)
