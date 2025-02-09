@@ -38,7 +38,7 @@ Este projeto implementa um sistema interativo usando Raspberry Pi Pico com displ
 
 ### Matriz WS2812
 
-- Data In: GPIO 7
+- GPIO 7
 
 ## Como Usar
 
@@ -58,3 +58,7 @@ Este projeto implementa um sistema interativo usando Raspberry Pi Pico com displ
 1. Configure o ambiente SDK do Raspberry Pi Pico
 2. Clone este repositório
 3. Execute:
+
+## Link do Vídeo
+
+https://drive.google.com/file/d/1pol5iXaSq5Xn34LwFhXb4IknEvUP3mcH/view?usp=sharing
